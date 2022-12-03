@@ -1,5 +1,4 @@
-<h1 align="center">Atlass_75</h1>
-<p align="center"><em>Full Stack JS Developer</em></p>
+<h1 align="center"><em>Full Stack JS Developer</em></h1>
 
 ## 💻| Languages
 • JavaScript / TypeScript<br />
