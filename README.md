@@ -1,29 +1,27 @@
 <h1 align="center">Atlass_75</h1>
-<p align="center">*Full Stack JS Developer*</p>
+<p align="center"><em>Full Stack JS Developer</em></p>
 
 ## 💻| Languages
-• JavaScript / TypeScript
-• LUA
+• JavaScript / TypeScript<br />
+• LUA<br />
 • HTML / CSS / SCSS
 
 ## ⚡| Framework 
-• Vue.js + Nuxt.js
-• React.js + Next.js
-• Express.js
+• Vue.js + Nuxt.js<br />
+• React.js + Next.js<br />
+• Express.js<br />
 
 ## 🔗 | My links
-• **WEB** | [atlass.dev](https://atlass.dev)
+• **WEB** | [atlass.dev](https://atlass.dev)<br />
 • **Discord** | Atlass_75#7588
 
 ## 🗣️| Languages
-• French
+• French<br />
 • English
 
 <hr />
 <p align="center">
-    <a href="https://atlass.dev">
-    ![Atlass_75's GitHub stats](https://github-readme-stats.vercel.app/api?username=atlass75&count_private=true&show_icons=true&theme=tokyonight&card_width=450)
-    
-        ![Atlass_75's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=atlass75&hide=css&layout=compact&theme=tokyonight&card_width=400)
-    </a>
+<img src="https://github-readme-stats.vercel.app/api?username=atlass75&count_private=true&show_icons=true&theme=tokyonight&card_width=450" /><br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atlass75&hide=css&layout=compact&theme=tokyonight&card_width=400" />
 </p>
