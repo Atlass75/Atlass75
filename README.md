@@ -22,5 +22,5 @@
 <p align="center"><a href="#">
 <img src="https://github-readme-stats.vercel.app/api?username=atlass75&count_private=true&show_icons=true&theme=tokyonight&card_width=450" /><br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atlass75&hide=css&layout=compact&theme=tokyonight&card_width=400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atlass75&hide=css&layout=compact&theme=tokyonight&card_width=450" />
   </a></p>
